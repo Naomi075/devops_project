@@ -67,5 +67,7 @@ test/: Contains unit and API tests.
 ### Dependencies
 Express: Web framework for Node.js.
 Redis: Key-value database management system.
+
 Author
+
 [Olivia]
