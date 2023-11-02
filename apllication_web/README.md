@@ -11,7 +11,7 @@
 ### 3. Initialize the Project: Initialize the Node.js project using the npm init command.
 
 >>npm init
-##4. Configure Express and Redis: Install the Express and Redis dependencies for our application.
+## 4. Configure Express and Redis: Install the Express and Redis dependencies for our application.
 
 >>npm install express redis
 ### 5. Create Project Structure: Organize the project by creating the following folders:
