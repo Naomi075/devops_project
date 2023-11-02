@@ -1,0 +1,29 @@
+{
+  "name": "apllication_web",
+  "version": "1.0.0",
+  "description": "Create a web application on any programming language (NodeJS, Java, Ruby, Python, etc.), storing data in a database (Redis, MongoDB, MySQL, ...) and cover it with tests of different levels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "olivia",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naomi075/devops_project.git"
+  },
+  "keywords": [
+    "API",
+    "configuration",
+    "tests"
+  ],
+  "bugs": {
+    "url": "https://github.com/Naomi075/devops_project/issues"
+  },
+  "homepage": "https://github.com/Naomi075/devops_project#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "redis": "^4.6.10"
+  }
+}
