@@ -16,11 +16,16 @@ It follows the following steps:
 >>npm install express redis
 5. Create Project Structure: Organize the project by creating the following folders:
 
-    public: Folder for static files such as CSS, JavaScript, etc.
+    public: Folder for static files such JavaScript, etc.
+    
     src: Folder for your application's source code.
+    
     controllers: Folder for your application's controllers.
+    
     models: Folder for data models.
+    
     routes: Folder for API routes.
+    
     test: Folder for unit and API tests.
     
 6. Configure the Express Application: In the app.js file, configure your Express application,
@@ -48,10 +53,15 @@ My DevOps API application is now up and running!
 Folder Structure:
 
 public/: Contains static files.
+
 src/: Contains the application source code.
+
 controllers/: Contains the application's controllers.
+
 models/: Contains data models.
+
 routes/: Contains API routes.
+
 test/: Contains unit and API tests.
 
 Dependencies
