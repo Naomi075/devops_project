@@ -62,3 +62,5 @@ From the root directory of the project, run:
 ```
 npm test
 ```
+![image](https://github.com/Naomi075/devops_project/assets/78731315/32f1a820-6622-4a98-9675-8ca0f5273e6c)
+
