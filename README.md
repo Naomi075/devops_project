@@ -10,11 +10,16 @@
 ## 2. Screenshots
 
 ### 1. Create a web application
-![npm start](images/web%20application/1.%20npm%20start.png)
 
-![home page](images/web%20application/2.%20home%20page.png)
 
-![npm test](images/web%20application/3.%20npm%20test.png)
+![image](https://github.com/Naomi075/devops_project/assets/78731315/13590fa0-ddf2-4d88-aed1-d7da7108c26d)
+
+
+![image](https://github.com/Naomi075/devops_project/assets/78731315/7c034b94-df1f-4104-a019-b70d40817410)
+
+
+![image](https://github.com/Naomi075/devops_project/assets/78731315/d92e9dc4-d238-4efe-9b25-5a7cceef357d)
+
 
 ### 2. Apply CI/CD pipeline
 ![github Action](images/CI-CD/1.%20github%20action%20.png)
