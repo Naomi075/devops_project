@@ -10,6 +10,8 @@
 ## 2. Screenshots
 
 ### 1. Create a web application
+```
+npm start
 
 
 ![image](https://github.com/Naomi075/devops_project/assets/78731315/13590fa0-ddf2-4d88-aed1-d7da7108c26d)
