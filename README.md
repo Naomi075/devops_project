@@ -1,5 +1,4 @@
-
-    # ece-devops
+ # ece-devops
 ## 1. Work performed
 
 - Create a web application
