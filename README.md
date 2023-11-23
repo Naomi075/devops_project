@@ -1,6 +1,8 @@
  # ece-devops
 ## 1. Work performed
-
+'''
+npm start
+'''
 - Create a web application
 - Apply CI/CD pipeline
 - Build Docker image of your application
