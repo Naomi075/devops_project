@@ -22,7 +22,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: ['20.10.0'] # Only one version to not use resources and go faster
+        #node-version: ['20.10.0'] # Only one version to not use resources and go faster
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
         redis-version: [6]
         
