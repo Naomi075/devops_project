@@ -74,5 +74,5 @@ jobs:
       uses: azure/webapps-deploy@v2
       with:
         app-name: 'devops-fall-2023'
-        publish-profile:${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8CA9B9C9FF0422BB68D81CA254459DB }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8CA9B9C9FF0422BB68D81CA254459DB }}
         package: . 
