@@ -64,13 +64,12 @@ jobs:
       name: 'Development'
       url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
-steps:
-      - name: Azure Login
+
+    steps:
+     - name: Azure Login
         uses: azure/login@v1
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
-
-    steps:
     - name: Download artifact from build job
       uses: actions/download-artifact@v2
       with:
