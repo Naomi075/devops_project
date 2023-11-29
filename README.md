@@ -28,8 +28,10 @@ npx kill-port 3000
 ```
 
 ### 2. Apply CI/CD pipeline
-![github Action](images/CI-CD/1.%20github%20action%20.png)
-![Azure deployment](images/CI-CD/2.%20azure%20deployment.png)
+<img width="883" alt="image" src="https://github.com/Naomi075/devops_project/assets/86240074/5051237f-d51d-4629-9b78-b92138f35138">
+
+<img width="1033" alt="image" src="https://github.com/Naomi075/devops_project/assets/86240074/04392304-2d33-4866-8f6f-51ed215c2669">
+
 
 ### 3. Configure and provision a virtual environment and run your application using the IaC approach
 
