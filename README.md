@@ -34,6 +34,8 @@ npx kill-port 3000
 
 
 ### 3. Configure and provision a virtual environment and run your application using the IaC approach
+![image](https://github.com/Naomi075/devops_project/assets/78731315/17255bd2-be4c-4641-842f-58a564ec469c)
+
 
 ### 4. Build Docker image of your application
 ![build image](images/Docker/1.%20build%20image.png)
