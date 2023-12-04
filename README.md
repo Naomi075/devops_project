@@ -33,7 +33,8 @@ npx kill-port 3000
 <img width="1033" alt="image" src="https://github.com/Naomi075/devops_project/assets/86240074/04392304-2d33-4866-8f6f-51ed215c2669">
 
 
-### 3. Configure and provision a virtual environment and run your application using the IaC approach
+### 3. Configure and provision a virtual environment and run your application using the IaC approac
+## Part-1
 ![image](https://github.com/Naomi075/devops_project/assets/78731315/17255bd2-be4c-4641-842f-58a564ec469c)
 
 
