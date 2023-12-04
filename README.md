@@ -49,9 +49,9 @@ npx kill-port 3000
 ![verification](images/Docker/7.%20verification%20in%20my%20repository.png)
 
 ### 5. Make container orchestration using Docker Compose
+![docker-compose-up](https://github.com/Naomi075/devops_project/assets/86240074/23a1af71-af0f-4f3f-9f38-384f55ddcd0b)
 
-![docker-compose up](images/Docker/8.%20docker-compose%20up.png)
-![result](images/Docker/9.%20result.png)
+![hello world avec nos noms ](https://github.com/Naomi075/devops_project/assets/86240074/c6d8eed9-ebea-45bd-b4b8-8fbba4298749)
 
 ### 6. Make docker orchestration using Kubernetes
 
