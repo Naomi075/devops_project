@@ -127,14 +127,14 @@ We got an issue during Vagrant's installation.
    ```
    docker pull arnaudw/userapi
    ```
-   [link](https://hub.docker.com/repository/docker/arnaudw/userapi) to docker hub
+   [link](https://hub.docker.com/repositories/oliviaa)to docker hub
 
 4. run image
   ```
-  docker run 12345:3000 arnaudw/userapi
+  docker run -p 12345:8080 -d hello-everyone-docker
   ```
   
-5. go to : http://localhost:12345
+5. go to : http://localhost:12345:8080
 
 ### 5. docker-compose
 1. Docker Compose should be included in your Docker installation (on Windows and Mac at least). If not, install it using the official [instructions]          (https://docs.docker.com/compose/install/).
