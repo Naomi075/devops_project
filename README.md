@@ -103,7 +103,7 @@ npm test
   
 
 ### 2. CI/CD Pipeline
-Our CI/CD are in [workflows](.workflows) file
+Our CI/CD are in (https://github.com/Naomi075/devops_project/tree/main/.github/workflows) file
 1. Continuous integration
 
     Go to [Github Action](https://github.com/XxProduGitxX/ece-devops-WANG-WALCZAK/actions) in our repository
