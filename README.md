@@ -106,7 +106,7 @@ npm test
 Our CI/CD are in (https://github.com/Naomi075/devops_project/tree/main/.github/workflows) file
 1. Continuous integration
 
-    Go to [Github Action](https://github.com/XxProduGitxX/ece-devops-WANG-WALCZAK/actions) in our repository
+    Go to [Github Action](https://github.com/Naomi075/devops_project/edit/main/README.md) in our repository
 
 2. Continuous deployment
 
@@ -125,7 +125,7 @@ We got an issue during Vagrant's installation.
    ```
 3. pull image
    ```
-   docker pull arnaudw/userapi
+   docker push oliviaa/hello-everyone-world
    ```
    [link](https://hub.docker.com/repositories/oliviaa)to docker hub
 
