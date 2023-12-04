@@ -37,6 +37,11 @@ npx kill-port 3000
 
 #### Part-1
 ![image](https://github.com/Naomi075/devops_project/assets/78731315/17255bd2-be4c-4641-842f-58a564ec469c)
+
+
+
+### 4. Build Docker image of your application
+![1-docker run hello world](https://github.com/Naomi075/devops_project/assets/86240074/20a9530e-cce8-4534-a6c8-30464dc466a4)
 ![2-docker hello world check](https://github.com/Naomi075/devops_project/assets/86240074/f8f00795-5b57-4f82-87ee-d936e0f4c97b)
 ![3-docker images](https://github.com/Naomi075/devops_project/assets/86240074/82f45137-9bdb-4ba4-9b41-3af3bfcf053c)
 ![4-docker run](https://github.com/Naomi075/devops_project/assets/86240074/f008e0de-5f90-4052-a0aa-4663bc093131)
@@ -47,11 +52,6 @@ npx kill-port 3000
 ![9-login and tag](https://github.com/Naomi075/devops_project/assets/86240074/f21eea36-6b9e-4924-8ad3-a24365911f67)
 ![10-docker build](https://github.com/Naomi075/devops_project/assets/86240074/558296c0-a96e-4d50-9e9b-395c2f08ad89)
 ![11-check-tag-docker](https://github.com/Naomi075/devops_project/assets/86240074/51e31ca4-3263-48e5-a379-21d2321918c9)
-
-
-### 4. Build Docker image of your application
-![1-docker run hello world](https://github.com/Naomi075/devops_project/assets/86240074/20a9530e-cce8-4534-a6c8-30464dc466a4)
-
 
 ### 5. Make container orchestration using Docker Compose
 ![docker-compose-up](https://github.com/Naomi075/devops_project/assets/86240074/23a1af71-af0f-4f3f-9f38-384f55ddcd0b)
