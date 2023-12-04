@@ -37,16 +37,21 @@ npx kill-port 3000
 
 #### Part-1
 ![image](https://github.com/Naomi075/devops_project/assets/78731315/17255bd2-be4c-4641-842f-58a564ec469c)
+![2-docker hello world check](https://github.com/Naomi075/devops_project/assets/86240074/f8f00795-5b57-4f82-87ee-d936e0f4c97b)
+![3-docker images](https://github.com/Naomi075/devops_project/assets/86240074/82f45137-9bdb-4ba4-9b41-3af3bfcf053c)
+![4-docker run](https://github.com/Naomi075/devops_project/assets/86240074/f008e0de-5f90-4052-a0aa-4663bc093131)
+![5-localhost](https://github.com/Naomi075/devops_project/assets/86240074/b2a57038-5190-48f6-b46f-8d695aafab3a)
+![6-results-docker](https://github.com/Naomi075/devops_project/assets/86240074/dc31295b-dfa9-49c7-b05d-346658a46697)
+![7-print-log-containers](https://github.com/Naomi075/devops_project/assets/86240074/5feb3d8f-35d6-40c0-ae88-0af8a594c436)
+![8-new-docker-avecnosnoms](https://github.com/Naomi075/devops_project/assets/86240074/d5fc72c8-2e09-4b06-9103-3dd83224b7c8)
+![9-login and tag](https://github.com/Naomi075/devops_project/assets/86240074/f21eea36-6b9e-4924-8ad3-a24365911f67)
+![10-docker build](https://github.com/Naomi075/devops_project/assets/86240074/558296c0-a96e-4d50-9e9b-395c2f08ad89)
+![11-check-tag-docker](https://github.com/Naomi075/devops_project/assets/86240074/51e31ca4-3263-48e5-a379-21d2321918c9)
 
 
 ### 4. Build Docker image of your application
-![build image](images/Docker/1.%20build%20image.png)
-![docker images](images/Docker/2.%20docker%20imaes.png)
-![docker run](images/Docker/3.%20docker%20run.png)
-![docker ps](images/Docker/4.%20docker%20ps.png)
-![docker logs](images/Docker/5.%20docker%20logs.png)
-![push on docker hub](images/Docker/6.%20push%20on%20docker%20hub.png)
-![verification](images/Docker/7.%20verification%20in%20my%20repository.png)
+![1-docker run hello world](https://github.com/Naomi075/devops_project/assets/86240074/20a9530e-cce8-4534-a6c8-30464dc466a4)
+
 
 ### 5. Make container orchestration using Docker Compose
 ![docker-compose-up](https://github.com/Naomi075/devops_project/assets/86240074/23a1af71-af0f-4f3f-9f38-384f55ddcd0b)
