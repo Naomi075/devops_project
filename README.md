@@ -114,7 +114,7 @@ Our CI/CD are in (https://github.com/Naomi075/devops_project/tree/main/.github/w
 
 ### 3. IaC
 
-We got an issue during Vagrant's installation.
+We got an issue because of VTx/amd. We activate virtualization on the bios, but it doesn't work. So, it's impossible to vagrant up.
 
 ### 4. Docker image
 
