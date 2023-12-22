@@ -35,10 +35,27 @@ npx kill-port 3000
 
 ### 3. Configure and provision a virtual environment and run your application using the IaC approac
 
-#### Part-1
-![image](https://github.com/Naomi075/devops_project/assets/78731315/17255bd2-be4c-4641-842f-58a564ec469c)
+#### Part-1. Imperative - Using Vagrant with Shell Provisioner
 
+![check installed vm](https://github.com/Naomi075/devops_project/assets/144215283/74d684af-404f-4463-b334-34a6bc6c9ce8)
 
+![vagrant ssh1](https://github.com/Naomi075/devops_project/assets/144215283/bf873cf1-6780-4440-81c3-1ab9006193d8)
+
+![vagrant ssh](https://github.com/Naomi075/devops_project/assets/144215283/909b1779-cca2-4e0f-8039-30447fd7c433)
+
+![vagrant provision](https://github.com/Naomi075/devops_project/assets/144215283/242e556e-dd0d-40a6-bc0c-2fd7ad2d920e)
+
+![vagrant ssh provisionned](https://github.com/Naomi075/devops_project/assets/144215283/b30c1e3b-a2c1-4731-a35c-195f1f423620)
+
+![vagrant ssh](https://github.com/Naomi075/devops_project/assets/144215283/e68c6bd4-9e57-4113-a86c-fd8eb2efca21)
+
+#### Part-2. Declarative - GitLab installation using Vagrant and Ansible Provisioner
+
+![serveur gitlab en fonction](https://github.com/Naomi075/devops_project/assets/144215283/43bc4734-62bb-45a0-8a0a-72781b38a5ea)
+
+![test installation gitlab installation ](https://github.com/Naomi075/devops_project/assets/144215283/f841fc4c-4da0-425f-9d49-d422f439e0e6)
+
+![upload playbooks](https://github.com/Naomi075/devops_project/assets/144215283/f0d82469-fec1-43e4-92d5-3c5f0a37414f)
 
 ### 4. Build Docker image of your application
 ![1-docker run hello world](https://github.com/Naomi075/devops_project/assets/86240074/20a9530e-cce8-4534-a6c8-30464dc466a4)
