@@ -132,25 +132,25 @@ Our CI/CD are in (https://github.com/Naomi075/devops_project/tree/main/.github/w
 ### 3. IaC
 
 ### Part 1. Imperative - Using Vagrant with Shell Provisioner
-#### 1- Create a virtual machine (VM)
-### Open virtualbox
-## Run the command: 
+### 1- Create a virtual machine (VM)
+Open virtualbox
+Run the command: 
 ```
 vagrant up
 ```
-## To enter inside the VM via SSH:
+To enter inside the VM via SSH:
 ```
 vagrant ssh
 ```
-## It will open a session in the VM and you can run any bash commands being inside the Linux VM (like ls, pwd, etc.). Open VM and check  the installed virtual machine
+It will open a session in the VM and you can run any bash commands being inside the Linux VM (like ls, pwd, etc.). Open VM and check  the installed virtual machine
 
-## Play with different commands for Shell Provisioner
+Play with different commands for Shell Provisioner
 ```
 # Start provisioning
 config.vm.provision "shell",
   inline: "echo '127.0.0.1  mydomain-1.local' >> /etc/hosts"
 ```
-# Then, run: 
+Then, run: 
 ```
 vagrant provision
 ```
@@ -167,11 +167,11 @@ cat /etc/vagrant_provisioned_at
 ```
 vagrant up
 ```
-## 1. Update the playbooks on the VM using vagrant upload:
+ 1. Update the playbooks on the VM using vagrant upload:
 ```
 vagrant upload playbooks /vagrant/playbooks gitlab_server
 ```
-## 2.Rerun provisioning with the command:
+2.Rerun provisioning with the command:
 ```
 vagrant provision
 ```
