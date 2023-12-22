@@ -131,7 +131,50 @@ Our CI/CD are in (https://github.com/Naomi075/devops_project/tree/main/.github/w
 
 ### 3. IaC
 
-We got an issue because of VTx/amd. We activate virtualization on the bios, but it doesn't work. So, it's impossible to vagrant up.
+### Part 1. Imperative - Using Vagrant with Shell Provisioner
+#### 1- Create a virtual machine (VM)
+### Open virtualbox
+## Run the command: 
+```
+vagrant up
+```
+## To enter inside the VM via SSH:
+```
+vagrant ssh
+```
+## It will open a session in the VM and you can run any bash commands being inside the Linux VM (like ls, pwd, etc.). Open VM and check  the installed virtual machine
+
+## Play with different commands for Shell Provisioner
+```
+# Start provisioning
+config.vm.provision "shell",
+  inline: "echo '127.0.0.1  mydomain-1.local' >> /etc/hosts"
+```
+# Then, run: 
+```
+vagrant provision
+```
+
+#Then, Enter to the VM and read the /etc/vagrant_provisioned_at file content:
+```
+vagrant ssh
+# ... entering to VM
+cat /etc/vagrant_provisioned_at
+```
+
+### Part 2. Declarative - GitLab installation using Vagrant and Ansible Provisioner
+## Run the command:
+```
+vagrant up
+```
+## 1. Update the playbooks on the VM using vagrant upload:
+```
+vagrant upload playbooks /vagrant/playbooks gitlab_server
+```
+## 2.Rerun provisioning with the command:
+```
+vagrant provision
+```
 
 ### 4. Docker image
 
