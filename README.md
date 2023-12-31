@@ -251,4 +251,6 @@ minikube status
 - https://ece-devops.azurewebsites.net  
 - https://hub.docker.com/repository/docker/arnaudw/userapi  
 ## Authors
-
+- Alexandra DUJARDIN
+- Naomi FOULE
+- Olivia MEDDAH
